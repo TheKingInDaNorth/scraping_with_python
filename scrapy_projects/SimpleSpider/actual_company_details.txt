@@ -1,0 +1,25 @@
+Apple Inc. , 121.03
+Microsoft Corporation , 235.75
+Taiwan Semiconductor Manufacturing Company Limited , 118.30
+NVIDIA Corporation , 514.24
+Intel Corporation , 62.90
+ASML Holding N.V. , 537.63
+Adobe Inc. , 444.30
+Cisco Systems, Inc. , 48.82
+Oracle Corporation , 67.16
+salesforce.com, inc. , 212.21
+Broadcom Inc. , 451.17
+Accenture plc , 264.95
+Texas Instruments Incorporated , 173.57
+QUALCOMM Incorporated , 129.98
+SAP SE , 123.82
+Shopify Inc. , 1,140.63
+Sony Corporation , 104.56
+International Business Machines Corporation , 127.61
+Uber Technologies, Inc. , 60.35
+Square, Inc. , 242.11
+Intuit Inc. , 395.95
+Applied Materials, Inc. , 114.29
+Micron Technology, Inc. , 87.77
+Advanced Micro Devices, Inc. , 81.05
+ServiceNow, Inc. , 489.22
